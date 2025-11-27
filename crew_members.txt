@@ -1,0 +1,200 @@
+Crew ID: P3376	Crew Type: Pilot	Available: No
+Crew ID: P1342	Crew Type: Pilot	Available: Yes
+Crew ID: P7882	Crew Type: Pilot	Available: Yes
+Crew ID: P4148	Crew Type: Pilot	Available: Yes
+Crew ID: P9180	Crew Type: Pilot	Available: Yes
+Crew ID: CP2025	Crew Type: Co-Pilot	Available: No
+Crew ID: CP3301	Crew Type: Co-Pilot	Available: No
+Crew ID: CP1995	Crew Type: Co-Pilot	Available: No
+Crew ID: CP5885	Crew Type: Co-Pilot	Available: Yes
+Crew ID: CP5780	Crew Type: Co-Pilot	Available: No
+Crew ID: FA3944	Crew Type: Flight Attendant	Available: No
+Crew ID: FA3479	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA1461	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA7486	Crew Type: Flight Attendant	Available: No
+Crew ID: FA9880	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8686	Crew Type: Flight Attendant	Available: No
+Crew ID: FA9095	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA5709	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8384	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA3026	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2985	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA5918	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2079	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6385	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA7026	Crew Type: Flight Attendant	Available: No
+Crew ID: FA3150	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA4522	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6635	Crew Type: Flight Attendant	Available: No
+Crew ID: FA7455	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA1045	Crew Type: Flight Attendant	Available: No
+Crew ID: FA8247	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6150	Crew Type: Flight Attendant	Available: No
+Crew ID: FA3050	Crew Type: Flight Attendant	Available: No
+Crew ID: FA3771	Crew Type: Flight Attendant	Available: No
+Crew ID: FA3055	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8036	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2333	Crew Type: Flight Attendant	Available: No
+Crew ID: FA5688	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA3060	Crew Type: Flight Attendant	Available: No
+Crew ID: FA2289	Crew Type: Flight Attendant	Available: No
+Crew ID: FA5323	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA9337	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA9476	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA6517	Crew Type: Flight Attendant	Available: No
+Crew ID: FA9848	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8541	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA5366	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2493	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA4542	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA5259	Crew Type: Flight Attendant	Available: Yes
+Crew ID: P5763	Crew Type: Pilot	Available: No
+Crew ID: P5032	Crew Type: Pilot	Available: Yes
+Crew ID: P5487	Crew Type: Pilot	Available: Yes
+Crew ID: P6353	Crew Type: Pilot	Available: No
+Crew ID: P7733	Crew Type: Pilot	Available: Yes
+Crew ID: CP7511	Crew Type: Co-Pilot	Available: Yes
+Crew ID: CP2924	Crew Type: Co-Pilot	Available: No
+Crew ID: CP5462	Crew Type: Co-Pilot	Available: Yes
+Crew ID: CP1526	Crew Type: Co-Pilot	Available: Yes
+Crew ID: CP6789	Crew Type: Co-Pilot	Available: No
+Crew ID: FA4966	Crew Type: Flight Attendant	Available: No
+Crew ID: FA8980	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8040	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA5405	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA1995	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6190	Crew Type: Flight Attendant	Available: No
+Crew ID: FA7706	Crew Type: Flight Attendant	Available: No
+Crew ID: FA7262	Crew Type: Flight Attendant	Available: No
+Crew ID: FA4187	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2618	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2090	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2405	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2798	Crew Type: Flight Attendant	Available: No
+Crew ID: FA2859	Crew Type: Flight Attendant	Available: No
+Crew ID: FA9946	Crew Type: Flight Attendant	Available: No
+Crew ID: FA5070	Crew Type: Flight Attendant	Available: No
+Crew ID: FA4150	Crew Type: Flight Attendant	Available: No
+Crew ID: FA5779	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA6953	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2776	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA4053	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA9704	Crew Type: Flight Attendant	Available: No
+Crew ID: FA7158	Crew Type: Flight Attendant	Available: No
+Crew ID: FA5936	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA5262	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2568	Crew Type: Flight Attendant	Available: No
+Crew ID: FA8114	Crew Type: Flight Attendant	Available: No
+Crew ID: FA4024	Crew Type: Flight Attendant	Available: No
+Crew ID: FA5694	Crew Type: Flight Attendant	Available: No
+Crew ID: FA8252	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA9418	Crew Type: Flight Attendant	Available: No
+Crew ID: FA1867	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA4082	Crew Type: Flight Attendant	Available: No
+Crew ID: FA8425	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA1761	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA9775	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6368	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA9756	Crew Type: Flight Attendant	Available: No
+Crew ID: FA1612	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA9499	Crew Type: Flight Attendant	Available: No
+Crew ID: P4356	Crew Type: Pilot	Available: Yes
+Crew ID: P8982	Crew Type: Pilot	Available: Yes
+Crew ID: P7977	Crew Type: Pilot	Available: No
+Crew ID: P3411	Crew Type: Pilot	Available: Yes
+Crew ID: P9149	Crew Type: Pilot	Available: Yes
+Crew ID: CP4788	Crew Type: Co-Pilot	Available: No
+Crew ID: CP8529	Crew Type: Co-Pilot	Available: No
+Crew ID: CP7029	Crew Type: Co-Pilot	Available: Yes
+Crew ID: CP9900	Crew Type: Co-Pilot	Available: No
+Crew ID: CP9018	Crew Type: Co-Pilot	Available: Yes
+Crew ID: FA5176	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA6384	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA1515	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6935	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA6178	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA5460	Crew Type: Flight Attendant	Available: No
+Crew ID: FA7654	Crew Type: Flight Attendant	Available: No
+Crew ID: FA5877	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8178	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA5719	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA9903	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2479	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8230	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6971	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8676	Crew Type: Flight Attendant	Available: No
+Crew ID: FA1098	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8537	Crew Type: Flight Attendant	Available: No
+Crew ID: FA9620	Crew Type: Flight Attendant	Available: No
+Crew ID: FA2515	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA7122	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA1526	Crew Type: Flight Attendant	Available: No
+Crew ID: FA1108	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA6467	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8795	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA6995	Crew Type: Flight Attendant	Available: No
+Crew ID: FA3893	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA5253	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2072	Crew Type: Flight Attendant	Available: No
+Crew ID: FA5156	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA4044	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA6270	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA4237	Crew Type: Flight Attendant	Available: No
+Crew ID: FA1747	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6935	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8571	Crew Type: Flight Attendant	Available: No
+Crew ID: FA9967	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8091	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6845	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8116	Crew Type: Flight Attendant	Available: No
+Crew ID: FA4686	Crew Type: Flight Attendant	Available: Yes
+Crew ID: P9651	Crew Type: Pilot	Available: Yes
+Crew ID: P1140	Crew Type: Pilot	Available: No
+Crew ID: P7778	Crew Type: Pilot	Available: No
+Crew ID: P6301	Crew Type: Pilot	Available: Yes
+Crew ID: P3441	Crew Type: Pilot	Available: No
+Crew ID: CP6699	Crew Type: Co-Pilot	Available: No
+Crew ID: CP6459	Crew Type: Co-Pilot	Available: No
+Crew ID: CP9268	Crew Type: Co-Pilot	Available: No
+Crew ID: CP3340	Crew Type: Co-Pilot	Available: No
+Crew ID: CP4873	Crew Type: Co-Pilot	Available: Yes
+Crew ID: FA6322	Crew Type: Flight Attendant	Available: No
+Crew ID: FA4905	Crew Type: Flight Attendant	Available: No
+Crew ID: FA7720	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6148	Crew Type: Flight Attendant	Available: No
+Crew ID: FA5946	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA6073	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA6772	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA5231	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA4829	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA3874	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8425	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA6598	Crew Type: Flight Attendant	Available: No
+Crew ID: FA9279	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6265	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA6542	Crew Type: Flight Attendant	Available: No
+Crew ID: FA1024	Crew Type: Flight Attendant	Available: No
+Crew ID: FA9850	Crew Type: Flight Attendant	Available: No
+Crew ID: FA3902	Crew Type: Flight Attendant	Available: No
+Crew ID: FA5425	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2959	Crew Type: Flight Attendant	Available: No
+Crew ID: FA1000	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2906	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA3338	Crew Type: Flight Attendant	Available: No
+Crew ID: FA8559	Crew Type: Flight Attendant	Available: No
+Crew ID: FA9307	Crew Type: Flight Attendant	Available: No
+Crew ID: FA6302	Crew Type: Flight Attendant	Available: No
+Crew ID: FA8997	Crew Type: Flight Attendant	Available: No
+Crew ID: FA1800	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2983	Crew Type: Flight Attendant	Available: No
+Crew ID: FA2687	Crew Type: Flight Attendant	Available: No
+Crew ID: FA4279	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA4091	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA9265	Crew Type: Flight Attendant	Available: No
+Crew ID: FA4257	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA2472	Crew Type: Flight Attendant	Available: No
+Crew ID: FA3579	Crew Type: Flight Attendant	Available: No
+Crew ID: FA3985	Crew Type: Flight Attendant	Available: No
+Crew ID: FA2247	Crew Type: Flight Attendant	Available: No
+Crew ID: FA3177	Crew Type: Flight Attendant	Available: Yes
+Crew ID: FA8173	Crew Type: Flight Attendant	Available: No

@@ -1,0 +1,5 @@
+Aircraft ID, Capacity, Maintenance
+AC747 440 16
+ZXB330 400 16
+FGA330 400 16
+BN747 440 16
